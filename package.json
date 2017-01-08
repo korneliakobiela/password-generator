@@ -4,7 +4,8 @@
   "description": "A Small Browser Extension to generate your perfect password",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint"
   },
   "author": "Kornelia Kobiela",
   "license": "ISC",
