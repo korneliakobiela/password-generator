@@ -60,4 +60,5 @@ const Generator = {
         return charsetNumbers;
     }
 };
-export default Generator;
+//export default Generator;
+module.exports = Generator;
